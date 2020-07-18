@@ -22,7 +22,7 @@
 
 Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Kathmandu, Nepal, currently, I'm a Computer Science and Information Technology Student at 🙍🏽‍♂️ [@Tribhuvan University](https://www.tuiost.edu.np/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy travelling 🏍️ and working out 🏋️‍♂️.
 
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+<img src="https://thumbs.gfycat.com/EnragedRealisticFlaky-size_restricted.gif" align="right">
 
 **Talking about Personal Stuffs:**
 
@@ -42,6 +42,7 @@ Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Kathmandu, Nepal, curren
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
