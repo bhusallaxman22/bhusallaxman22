@@ -20,19 +20,18 @@
 <br />
 <br />
 
-Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Kathmandu, Nepal, currently, I'm a Computer Science and Information Technology Student at 🙍🏽‍♂️ [@Tribhuvan University](https://www.tuiost.edu.np/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy travelling 🏍️ and working out 🏋️‍♂️.
+Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Euless, Nepal, currently, I'm a Computer Science Undergrad at 🙍🏽‍♂️ [@University of Texas, Arlington](https://uta.edu/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy travelling 🏍️ and working out 🏋️‍♂️.
 
 <img src="https://thumbs.gfycat.com/EnragedRealisticFlaky-size_restricted.gif" align="right">
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Javascript and Go; 
-- 👯 I’m looking to collaborate on Javascript;
+- 👨🏽‍💻 I’m currently working on improving my technical skill;
+- 🌱 I’m currently learning Javascript, Go C and Java; 
+- 👯 I’m looking to collaborate on Javascript, Java and C;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Ram was Allegedly Born in Nepal;
 - 📫 How to reach me: laxmanbhusal612@gmail.com;
-- 📝[Resume](#)
+- 📝[Resume](https://files.bhusallaxman.com.np/resume.pdf)
 
 **Languages and Tools:**  
 
