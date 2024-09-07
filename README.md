@@ -48,4 +48,3 @@ Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Euless, Nepal, currently
 
 
 
-![Laxman's github stats](https://github-readme-stats.vercel.app/api?username=bhusallaxman22&show_icons=true&hide_border=true)
