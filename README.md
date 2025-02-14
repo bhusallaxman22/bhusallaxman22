@@ -3,6 +3,10 @@
 <a href="https://twitter.com/laxmanbhusal22">
   <img align="left" alt="Laxman Bhusal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+![](https://raw.githubusercontent.com/bhusallaxman22/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/bhusallaxman22/github-stats/master/generated/languages.svg)
+
+
 <a href="https://www.linkedin.com/in/laxman-bhushal-54426617b/">
   <img align="left" alt="Laxman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
