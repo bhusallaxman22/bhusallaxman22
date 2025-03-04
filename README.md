@@ -24,7 +24,7 @@
 <br />
 <br />
 
-Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Euless, Nepal, currently, I'm a Computer Science Undergrad at 🙍🏽‍♂️ [@University of Texas, Arlington](https://uta.edu/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy travelling 🏍️ and working out 🏋️‍♂️.
+Hi, I'm Laxman Bhusal, a Full Stack Developer 🚀 from Euless, Texas, currently, I'm a Computer Science Undergrad at 🙍🏽‍♂️ [@University of Texas, Arlington](https://uta.edu/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy travelling 🏍️ and working out 🏋️‍♂️.
 
 <img src="https://thumbs.gfycat.com/EnragedRealisticFlaky-size_restricted.gif" align="right">
 
